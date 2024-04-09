@@ -1,0 +1,12 @@
+{
+  "name": "edeister/328_2/hello-fat-free",
+  "authors": [
+    {
+      "name": "Ethan Deister",
+      "email": "deister.ethan@student.greenriver.edu"
+    }],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
