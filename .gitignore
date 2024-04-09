@@ -1,0 +1,3 @@
+#Git ignore file prevents files/directories from being included in version control
+/vendor
+composer.lock
